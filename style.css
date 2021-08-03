@@ -1,0 +1,29 @@
+.my_nav_bar{
+    position:sticky;
+    top:0;
+    z-index: 99999;
+}
+.line{
+    text-align: left;
+    background-color: black;
+    height: 3px;
+    width: 1490px;
+}
+#marqueeStyle{
+    margin-top: -20px;
+    background-color: cornflowerblue;
+    font-size: 18px;
+}
+#v-school{
+    max-width: 100%;
+    height: auto;
+}
+html{
+    scroll-behavior: smooth;
+}
+#header{
+    text-align: center;
+}
+#map{
+    text-align: left;
+}
